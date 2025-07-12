@@ -1,0 +1,5 @@
+Lint/PrivateHelperMethod:
+  Enabled: true
+
+Lint/DuplicatedHelperMethod:
+  Enabled: true
